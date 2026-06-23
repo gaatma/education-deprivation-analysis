@@ -3,4 +3,5 @@ echo "__pycache__/
 .DS_Store
 *.pyc
 .venv/
+*.db
 venv/" > .gitignore
