@@ -63,8 +63,6 @@ All visualisations and the trained model are saved to `outputs/`:
 
 education-deprivation-analysis/
 
-│
-
 ├── data/                          # Raw datasets (CSV)
 
 │   ├── attainment8.csv
@@ -73,13 +71,9 @@ education-deprivation-analysis/
 
 │   └── imd2025.csv
 
-│
-
 ├── notebooks/
 
 │   └── 01_analysis.ipynb          # Main analysis notebook (all 7 sections)
-
-│
 
 ├── outputs/                       # Generated charts, model, database
 
@@ -92,8 +86,6 @@ education-deprivation-analysis/
 │   ├── random_forest_attainment_model_tuned.pkl
 
 │   └── education_deprivation.db
-
-│
 
 ├── README.md                      # This file
 
